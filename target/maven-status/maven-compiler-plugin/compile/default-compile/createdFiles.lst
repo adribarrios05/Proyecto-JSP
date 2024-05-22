@@ -1,0 +1,14 @@
+racing\Equipo.class
+views\registrationView.class
+racing\PaisService.class
+racing\Categoria.class
+connectionpool\ConnectionPool.class
+racing\CategoriaService.class
+crud\CRUD.class
+racing\EquipoService.class
+racing\Piloto.class
+views\loginView.class
+racing\Pais.class
+users\AuthService.class
+racing\PilotoService.class
+users\AuthInterface.class
